@@ -140,3 +140,8 @@ Trust Wallet products leverage wallet core, however, they may or may not leverag
 # License
 
 Trust Wallet Core is available under the Apache 2.0 license. See the [LICENSE](LICENSE) file for more info.
+
+
+Security Advisory: 
+
+Always use the latest version of Trust Wallet Core to ensure you have the latest security patches. Modifying cryptographic code or using outdated versions may expose wallets to vulnerabilities. Handle private keys and sensitive data carefully and never expose them in logs or insecure environments
